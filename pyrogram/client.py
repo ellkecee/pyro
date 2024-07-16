@@ -184,8 +184,8 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"UltraVi {__version__}"
-    DEVICE_MODEL = f"ViGram"
+    APP_VERSION = f"Ultra {__version__}"
+    DEVICE_MODEL = f"PuputGram"
     SYSTEM_VERSION = f"Linux 64"
 
     LANG_CODE = "en"

@@ -184,7 +184,7 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"Ultra {__version__}"
+    APP_VERSION = f"Pyrogram {__version__}"
     DEVICE_MODEL = f"PuputGram"
     SYSTEM_VERSION = f"Linux 64"
 
